@@ -1,6 +1,6 @@
 # rssagg-go
 
-A RSS aggregator in Go
+An RSS aggregator developed in Golang.
 
 ## Programming Language 
 
